@@ -1,0 +1,2 @@
+set solib-search-path G:/Work/Android/MPV/mpvvideoplayer/app/src/main/obj/local/arm64-v8a
+directory G:/workstation/AndroidSDK/ndk-bundle/build//../sysroot G:/Work/Android/MPV/mpvvideoplayer/app/src/main/jni G:/workstation/AndroidSDK/ndk-bundle/build//../sources/cxx-stl/llvm-libc++ G:/workstation/AndroidSDK/ndk-bundle/build//../sources/cxx-stl/llvm-libc++abi/include arm64-v8a/include G:/workstation/AndroidSDK/ndk-bundle/build//../sources/cxx-stl/llvm-libc++/include G:/workstation/AndroidSDK/ndk-bundle/build//../sources/cxx-stl/llvm-libc++/../llvm-libc++abi/include
